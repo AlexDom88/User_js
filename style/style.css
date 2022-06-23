@@ -1,0 +1,23 @@
+body {
+    width: 800px;
+    height: 800px;
+    margin: 0 auto;
+    margin-top: 10px;
+ }
+ .header {
+     height: 200px;
+     background-color: blue;
+ }
+ .section {
+     height: 400px;
+     background-color:yellow;
+ }
+ .nav {
+     height: 400px;
+     width: 100px;
+     background-color:aqua;
+ }
+ .footer {
+     height: 200px;
+     background-color: blue;
+ }
